@@ -586,7 +586,7 @@ msgstr "Merci de renseigner un mot de passe"
 #: app/components/forms/register-form.js:34
 #: app/components/settings/password-section.js:29
 msgid "Your password must have at least {ruleValue} characters"
-msgstr "Votre mot de passe doit contenir au moins {ruleValue] caractères"
+msgstr "Votre mot de passe doit contenir au moins {ruleValue} caractères"
 
 #: app/components/forms/register-form.js:43
 #: app/components/settings/password-section.js:38
@@ -1516,19 +1516,19 @@ msgstr "Paramètres"
 
 #: app/routes/admin/settings/analytics.js:5
 msgid "Analytics"
-msgstr ""
+msgstr "Analytics"
 
 #: app/routes/admin/settings/images.js:5
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: app/routes/admin/settings/index.js:5
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: app/routes/admin/settings/microservices.js:5
 msgid "Microservices"
-msgstr ""
+msgstr "Microservices"
 
 #: app/routes/admin/settings/payment-gateway.js:5
 msgid "Payment Gateway"
@@ -1563,7 +1563,7 @@ msgstr "A venir"
 #: app/routes/admin/users/view/settings/applications.js:6
 #: app/routes/settings/applications.js:6
 msgid "Applications"
-msgstr ""
+msgstr "Applications"
 
 #: app/routes/admin/users/view/settings/email-preferences.js:6
 #: app/routes/settings/email-preferences.js:6
@@ -2483,7 +2483,7 @@ msgstr "Début"
 
 #: app/templates/components/events/view/overview/event-apps.l10n.hbs:1
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: app/templates/components/events/view/overview/event-apps.l10n.hbs:1
 msgid "Generate Android App"
@@ -3141,7 +3141,7 @@ msgstr "Jetons Facebook"
 
 #: app/templates/components/forms/admin/settings/system/social-media-token.l10n.hbs:1
 msgid "Client Secret"
-msgstr ""
+msgstr "Client Secret"
 
 #: app/templates/components/forms/admin/settings/system/social-media-token.l10n.hbs:1
 msgid "Twitter Tokens"
@@ -3153,7 +3153,7 @@ msgstr "Consumer ID"
 
 #: app/templates/components/forms/admin/settings/system/social-media-token.l10n.hbs:1
 msgid "Consumer Secret"
-msgstr ""
+msgstr "Consumer Secret"
 
 #: app/templates/components/forms/admin/settings/system/social-media-token.l10n.hbs:1
 msgid "Instagram Tokens"
@@ -3181,31 +3181,31 @@ msgstr "Google Storage"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Bucket name"
-msgstr ""
+msgstr "Bucket name"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Interoperable access key"
-msgstr ""
+msgstr "Interoperable access key"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Interoperable access secret"
-msgstr ""
+msgstr "Interoperable access secret"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Amazon S3"
-msgstr ""
+msgstr "Amazon S3"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Select S3 Region"
-msgstr ""
+msgstr "Select S3 Region"
 
 #: app/templates/components/forms/admin/settings/system/storage-option.l10n.hbs:1
 msgid "Key"
-msgstr ""
+msgstr "Clé"
 
 #: app/templates/components/forms/admin/settings/ticket-fees-form.l10n.hbs:1
 msgid "Add Fee Settings for the event"
@@ -4638,7 +4638,7 @@ msgstr "%"
 
 #: app/templates/components/ui-table/cell/events/view/tickets/discount-codes/cell-value.l10n.hbs:1
 msgid "US$ "
-msgstr "US$ "
+msgstr "Euro € "
 
 #: app/templates/components/ui-table/cell/events/view/tickets/orders/cell-actions.l10n.hbs:1
 msgid "Mark Completed"
@@ -4670,7 +4670,7 @@ msgstr "Renvoyer la confirmation de commande"
 
 #: app/templates/components/ui-table/simple-pagination.l10n.hbs:1
 msgid "Showing"
-msgstr "Visualisant"
+msgstr "Montre"
 
 #: app/templates/components/ui-table/simple-pagination.l10n.hbs:1
 msgid "of"
@@ -4930,7 +4930,7 @@ msgstr "Modifier un code d'accès"
 
 #: app/templates/events/view/tickets/add-order.l10n.hbs:1
 msgid "Grand Total"
-msgstr "Grand Total"
+msgstr "Total"
 
 #: app/templates/events/view/tickets/attendees.l10n.hbs:1
 msgid "View Attendees"
